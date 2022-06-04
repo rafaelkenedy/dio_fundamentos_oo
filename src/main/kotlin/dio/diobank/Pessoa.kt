@@ -5,6 +5,8 @@ class Pessoa {
     var cpf: String = "051"
     private set
 
+    constructor()
+
 //    inner class endereco{
 //        var rua: String = "Rua duque"
 //    }
